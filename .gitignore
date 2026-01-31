@@ -1,2 +1,4 @@
 venv/
 tokenizer_output.txt
+normalizer_output.txt
+__pycache__/

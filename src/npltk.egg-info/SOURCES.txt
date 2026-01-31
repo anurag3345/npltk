@@ -1,0 +1,15 @@
+setup.py
+src/npltk/__init__.py
+src/npltk.egg-info/PKG-INFO
+src/npltk.egg-info/SOURCES.txt
+src/npltk.egg-info/dependency_links.txt
+src/npltk.egg-info/requires.txt
+src/npltk.egg-info/top_level.txt
+src/npltk/common/__init__.py
+src/npltk/common/utils.py
+src/npltk/normalizer/__init__.py
+src/npltk/normalizer/config.py
+src/npltk/normalizer/core.py
+src/npltk/normalizer/rules.py
+src/npltk/tokenizer/__init__.py
+src/npltk/tokenizer/tokenizer.py
