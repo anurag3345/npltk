@@ -12,4 +12,7 @@ src/npltk/normalizer/config.py
 src/npltk/normalizer/core.py
 src/npltk/normalizer/rules.py
 src/npltk/tokenizer/__init__.py
+src/npltk/tokenizer/sentence_splitter.py
 src/npltk/tokenizer/tokenizer.py
+src/npltk/tokenizer/types.py
+src/npltk/tokenizer/word_tokenizer.py
