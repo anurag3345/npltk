@@ -15,9 +15,11 @@ setup(
     include_package_data=True,
     package_data={
         "npltk.stop_word": ["nepali_stopwords.txt"],
+        "npltk.tokenizer": ["models/*.model", "models/*.vocab"],
+        "npltk.lemmatizer": ["data/*.json"],
     },
     install_requires=[
-        "sentencepiece==0.2.0",
+        "sentencepiece>=0.1.90",
     ],
     python_requires=">=3.7",
     author="NPLTK Contributors",
