@@ -2,3 +2,5 @@ include README.md
 recursive-include src/npltk/stop_word *.txt
 recursive-include src/npltk/tokenizer/models *.model *.vocab
 recursive-include src/npltk/lemmatizer/data *.json
+recursive-include src/npltk/pos/models *.pth
+recursive-include src/npltk/ner/models *.pth
